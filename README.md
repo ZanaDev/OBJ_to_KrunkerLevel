@@ -2,12 +2,7 @@
 This is a simple script for generating valid Krunker cubes from the OBJ file format. This tool is meant to be used in conjunction with an exported OBJ file from the BSP-editor [TrenchBroom 2](https://github.com/kduske/TrenchBroom)
 
 ## Preview
-Timelapse video of a simple level: *YOUTUBELINKHERE*
-
-Screenshots:
-In Trenchbroom 2: *PICTURE 1*
-
-In Krunker: *PICTURE 2*
+Timelapse video of a simple level: https://www.youtube.com/watch?v=6OV31OWCaxU
 
 ## Setup
 Python version 3.7.3 or greater needs to be installed on your system before you can use this tool.
