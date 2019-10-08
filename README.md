@@ -21,7 +21,7 @@ Modify CompilerConfig.cfg to enable or disable various features of the compiler 
 * Create rectangular prism brushes in TrenchBroom to construct a level
 * Use File > Export > Wavefront OBJ...
 * Drag and drop the valid OBJ file onto the OBJ_to_KrunkerLevel.py script
-* Load the data from Krunker_Level.txt into the Krunker map editor to see it in all its glory!
+* Load the data from the generated Krunker_Level.txt in the same directory as the script into the Krunker map editor to see it in all its glory!
 
 ## Limitations
 * This is a barebones tool for editing cubework. It has minimal features other than making cube basic cube editing much less tedious
