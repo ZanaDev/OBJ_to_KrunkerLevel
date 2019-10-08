@@ -1,5 +1,5 @@
 # OBJ file to Krunker Level Data converter
-This is a simple script for generating valid Krunker cubes from the OBJ file format. This tool is meant to be used in conjunction with an exported OBJ file from the BSP-editor [Trenchbroom 2](https://github.com/kduske/TrenchBroom)
+This is a simple script for generating valid Krunker cubes from the OBJ file format. This tool is meant to be used in conjunction with an exported OBJ file from the BSP-editor [TrenchBroom 2](https://github.com/kduske/TrenchBroom)
 
 ## Preview
 Timelapse video of a simple level: *YOUTUBELINKHERE*
@@ -19,7 +19,7 @@ Modify KrunkerMapSettingsConfig.json to change the default values for various ma
 Modify CompilerConfig.cfg to enable or disable various features of the compiler tool.
 
 ## Workflow
-* Create rectangular prism brushes in [Trenchbroom 2](https://github.com/kduske/TrenchBroom) to construct a level
+* Create rectangular prism brushes in [TrenchBroom 2](https://github.com/kduske/TrenchBroom) to construct a level
 * Use File > Export > Wavefront OBJ...
 * Drag and drop the valid OBJ file onto the OBJ_to_KrunkerLevel.py script
 * Load the data from the generated Krunker_Level.txt in the same directory as the script into the Krunker map editor to see it in all its glory!
