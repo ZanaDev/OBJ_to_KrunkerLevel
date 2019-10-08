@@ -22,6 +22,7 @@ Modify CompilerConfig.cfg to enable or disable various features of the compiler 
 ## Limitations
 * This is a barebones tool for editing cubework. It has minimal features other than making cube basic cube editing much less tedious
 * **No rotation support**, which may be good or bad depending on your perspective.
+* **1 unit increments are not supported** (this has more to do with Krunker's engine having unusual grid positioning compared to most games and tools), however 1 unit increments may work on the up axis for things like stairs.
 * The script is probably easy to break with invalid data passed into it. Be careful
 * Make sure to use RECTANGULAR PRISMS ONLY, no other shapes. They may be valid in TrenchBroom 2, but they won't be in Krunker if the script even works in the first place
 
