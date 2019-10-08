@@ -5,9 +5,9 @@ This is a simple script for generating valid Krunker cubes from the OBJ file for
 Timelapse video of a simple level: *YOUTUBELINKHERE*
 
 Screenshots:
-	In Trenchbroom 2: *PICTURE 1*
-	
-	In Krunker: *PICTURE 2*
+In Trenchbroom 2: *PICTURE 1*
+
+In Krunker: *PICTURE 2*
 
 ## Setup
 Python version 3.7.3 or greater needs to be installed on your system before you can use this tool.
