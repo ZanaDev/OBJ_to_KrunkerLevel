@@ -17,7 +17,7 @@ Modify CompilerConfig.cfg to enable or disable various features of the compiler 
 * Create rectangular prism brushes in [TrenchBroom 2](https://github.com/kduske/TrenchBroom) to construct a level
 * Use File > Export > Wavefront OBJ...
 * Drag and drop the valid OBJ file onto the OBJ_to_KrunkerLevel_v2.py script
-* Alternatively, open a command window in the script directory and enter "py OBJ_to_KrunkerLevel_v2.py file_name.obj", replacing file_name.obj with your actual file. Hopefully the Python installer sets up your global PATH properly ¯\_(ツ)_/¯
+* Alternatively, open a command window in the script directory and enter "py OBJ_to_KrunkerLevel_v2.py file_name.obj", replacing file_name.obj with your actual file. Hopefully the Python installer sets up your global PATH properly ¯\\_(ツ)_/¯
 * Load the data from the generated Krunker_Level.txt in the same directory as the script into the Krunker map editor to see it in all its glory!
 
 ## Limitations
